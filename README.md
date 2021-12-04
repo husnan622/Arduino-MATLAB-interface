@@ -1,1 +1,1 @@
-# Arduino-MATLAB-interface
+# Arduino MATLAB interface
